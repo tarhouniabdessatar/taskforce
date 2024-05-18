@@ -1,0 +1,48 @@
+GitLab est une plateforme de développement collaborative open source éditée par
+ la société américaine du même nom. Elle couvre l'ensemble des étapes du DevOps. Se basant 
+sur les fonctionnalités du logiciel Git, 
+elle permet de piloter des dépôts de code source et de gérer leurs différentes versions
+-------------------------------
+----------------------------------
+Bitbucket Cloud est un outil d'hébergement du code et de collaboration
+ basé sur Git, qui a été conçu pour les équipes. Les intégrations 
+de Bitbucket avec Jira et Trello plus performantes 
+que jamais sont conçues pour rassembler toute l'équipe de développement autour d'un projet.
+--------------------------------------------------------------------------------
+Le Docker Hub est le registre officiel de Docker. Il s'agit 
+d'un répertoire SaaS permettant de gérer et de partager les conteneurs. 
+On peut y trouver des images Docker de projets open source ou de vendeurs logiciels.
+ Il est possible de télécharger ces images et de partager les vôtres.
+
+Quels sont les avantages de Docker ?
+Avantage 1 : autosuffisance des conteneurs. Grâce à Docker, chaque conteneur est 
+              indépendant des autres conteneurs installés. ...
+Avantage 2 : efficience de développement. ...
+Avantage 3 : optimisation des déploiements des applications. ...
+Avantage 4 : un meilleur contrôle des mises à jour.
+-----------------------------------------------------------------------
+-------------------------------------------------------------------
+GitHub est une plateforme basée sur le cloud où vous pouvez stocker, partager et 
+travailler avec d'autres pour écrire du code. Le stockage de votre code dans 
+un « référentiel » sur GitHub vous permet de : Présenter ou partager votre travail. 
+Suivre et gérer les modifications apportées à votre code au fil du temps.
+----------------------------------
+Il permet aux développeurs de collaborer et d'apporter des modifications aux projets
+ partagés tout en gardant un suivi détaillé de leur progression.
+----------------------------------------------
+GitHub, vous pouvez créer, modifier, déplacer et supprimer des fichiers dans votre
+ dépôt ou tout dépôt auquel vous avez accès en écriture. Vous pouvez également suivre
+ l'historique des modifications dans un fichier ligne par ligne.
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Pourquoi on utilise gît ?
+Dans de nombreux cercles, Git est devenu le système de contrôle de version attendu 
+pour les nouveaux projets. Si votre équipe utilise Git, vous n'aurez pas à former 
+de nouveaux employés à votre workflow,
+ car ils seront déjà familiarisés avec le développement distribué.
+Git: est un système de contrôle de version le plus largement utilisé aujourd'hui
+-------------------------------------------------
+Trello est l'outil visuel qui permet à votre équipe de gérer n'importe quel type de projet
+ ou de flux de travail, ou encore de suivre les tâches.
+ Personnalisez-le en ajoutant des fichiers, des checklists
+ ou même des règles d'automatisation pour l'adapter aux méthodes de travail de votre équipe.
